@@ -58,5 +58,4 @@ elif [[ $1 == 'clear' ]]; then
  task_clear
 else
   printf '[Error] Invalid arguments! \nTry executing `task help` or use `help` as argument.\n'
-
 fi
